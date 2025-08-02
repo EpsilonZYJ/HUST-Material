@@ -1,0 +1,6 @@
+[submodule "计算机科学与技术/IIA算法分析与设计"]
+	path = 计算机科学与技术/IIA算法分析与设计
+	url = https://github.com/EpsilonZYJ/AlgorithmExperiment.git
+[submodule "计算机科学与技术/IIB数据库系统原理"]
+	path = 计算机科学与技术/IIB数据库系统原理
+	url = https://github.com/EpsilonZYJ/DataBaseExperiement.git
