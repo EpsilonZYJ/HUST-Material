@@ -4,3 +4,18 @@
 [submodule "计算机科学与技术/IIB数据库系统原理"]
 	path = 计算机科学与技术/IIB数据库系统原理
 	url = https://github.com/EpsilonZYJ/DataBaseExperiement.git
+[submodule "计算机科学与技术/IIB机器学习导论"]
+	path = 计算机科学与技术/IIB机器学习导论
+	url = https://github.com/EpsilonZYJ/Introduction-To-Machine-Learning.git
+[submodule "计算机科学与技术/IIA数字电路与逻辑设计"]
+	path = 计算机科学与技术/IIA数字电路与逻辑设计
+	url = https://github.com/EpsilonZYJ/Digital-Circuit-Experiment.git
+[submodule "计算机科学与技术/IIA人工智能导论"]
+	path = 计算机科学与技术/IIA人工智能导论
+	url = https://github.com/EpsilonZYJ/IntroductionToAI.git
+[submodule "计算机科学与技术/IIAC++程序设计"]
+	path = 计算机科学与技术/IIAC++程序设计
+	url = https://github.com/EpsilonZYJ/CppExperiement.git
+[submodule "计算机科学与技术/IIA程序设计综合课程设计"]
+	path = 计算机科学与技术/IIA程序设计综合课程设计
+	url = https://github.com/EpsilonZYJ/Sudoku.git
